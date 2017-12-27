@@ -912,17 +912,17 @@ ul.portfolio-image li .desc{
   width: 100%;
 }
 .bg-about {
-  background: url('../images/reza.jpg');
+  background: url('https://i.imgur.com/z5OIeKE.jpg?4');
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
+  background-size: auto;
   background-repeat: no-repeat;
   position: relative;
   padding: 0;
-  margin: 0;
-  min-height: 660px;
-  width: 100%;
+  margin: 15%;
+  min-height: 655px;
+  width: 70%;
   height: 100%;
   float: left;
 }
@@ -931,12 +931,12 @@ ul.portfolio-image li .desc{
   width: 100%;
   position: relative;
   display: block;
-  min-height: 480px;
+  min-height: 520px;
 }
 .wrap-about .w-content{
   position: absolute;
-  left: 50%;
-  top: 50%;
+  left: 32%;
+  top: 70%;
   transform: translateX(-50%) translateY(-50%);
   -webkit-transform: translateX(-50%) translateY(-50%);
   -moz-transform: translateX(-50%) translateY(-50%);
