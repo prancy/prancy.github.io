@@ -631,7 +631,6 @@ ul.portfolio-image li img {
   height: 100%;
   left: 0;
   top: 0;
-  -webkit-filter: grayscale(100%);
   transition: filter, transform, 0.5s;
 }
 ul.portfolio-image li .decription-wrap {
@@ -1202,7 +1201,7 @@ ul.portfolio-image li .desc{
 
 .footer-bottom{
   width: 100%;
-  background: #2f2f2f;
+  background: #b0cbe9;
   padding: 80px 0;
   color: #636363;
 }
